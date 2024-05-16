@@ -22,5 +22,5 @@ News App with MVVM Architecture and BLoC Pattern
 
 ## Preview Video
 
-[NewsApp.webm](https://github.com/Fady-Esam/News-App/assets/146977882/65bd4b2e-10a8-4421-957e-ad74baf8162a)
+[NewsApp.webm](https://github.com/Fady-Esam/News-App/assets/146977882/3a0629ac-8736-49c7-9744-61834618df47)
 
