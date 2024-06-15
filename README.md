@@ -1,6 +1,10 @@
 # News App
 
-News App with MVVM Architecture and BLoC Pattern
+<h2>
+        Flutter News App with RESTful API using MVVM Architecture and BLoC Pattern. It enables users to navigate and explore detailed news stories and various topics
+   including business, sports, entertainment, health, science, and technology. It also includes theme switching
+</h2>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
