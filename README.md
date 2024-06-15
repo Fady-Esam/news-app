@@ -1,7 +1,7 @@
-# News App
+# Flutter News App
 
 <h3>
-        Flutter News App with RESTful API using MVVM Architecture and BLoC Pattern. It enables users to navigate and explore detailed news stories and various topics
+        Created with RESTful API using MVVM Architecture and BLoC Pattern. It enables users to navigate and explore detailed news stories and various topics
    including business, sports, entertainment, health, science, and technology. It also includes theme switching
 </h3>
 
