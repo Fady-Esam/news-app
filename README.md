@@ -1,6 +1,6 @@
 # 📰 Flutter News App
 
-A robust and scalable Flutter application designed to deliver a seamless and engaging news reading experience with fast performance and clean interface. By integrating with reliable news APIs, it keeps users informed effortlessly with up-to-date content.
+A robust and scalable Flutter application designed to deliver a seamless and engaging news reading experience with fast performance and clean interface. By integrating with a news API, it keeps users informed effortlessly with up-to-date content.
 
 ---
 
