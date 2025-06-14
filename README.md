@@ -25,11 +25,7 @@ A robust and scalable Flutter application designed to deliver a seamless and eng
 
 ## 🛠️ Languages & Tools
 <p align="left"> 
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="45"/> 
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="45"/>
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="45"/>
-        <img src="https://github.com/user-attachments/assets/81601bc6-d10f-436a-a3fa-fb3b129feaf6" alt="VS Code" width="50" height="45"/>
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="45"/> 
+        <img src="https://skillicons.dev/icons?i=flutter,dart,postman,vscode,git,github" alt="Tech stack icons" />
 </p>
 
 ---
