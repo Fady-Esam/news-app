@@ -7,14 +7,15 @@ Integrated with a news API to keep users informed effortlessly with up-to-date c
 
 ## ✨ Features
 
-- 📰 Explore detailed news stories across multiple categories  
-- 💼 Business news updates  
-- ⚽ Sports coverage  
-- 🎬 Entertainment highlights  
-- 🏥 Health insights  
-- 🔬 Science breakthroughs  
-- 💻 Technology trends  
-- 🌗 Light/Dark theme switching for comfortable reading  
+- 📰 Browse and explore news articles across multiple categories  
+- 📖 View detailed news items including title, description, author, and publication date  
+- 💼 Stay updated with the latest in business  
+- ⚽ Follow trending sports stories and match updates  
+- 🎬 Discover entertainment and celebrity highlights  
+- 🏥 Get health news and wellness insights  
+- 🔬 Learn about the latest science discoveries and breakthroughs  
+- 💻 Keep up with evolving technology trends  
+- 🌗 Switch between light and dark themes for optimal reading comfort
 
 ---
 
