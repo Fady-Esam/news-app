@@ -39,7 +39,7 @@ Integrated with a news API to keep users informed effortlessly with up-to-date c
 - 🔁 `flutter_bloc`
 - ⏳ `modal_progress_hud_nsn`
 - 🧠 `dartz`
-- 🟰 `equatable`
+- ⚖️ `equatable`
 - 🛠️ `get_it`
 - 📅 `intl`
 
