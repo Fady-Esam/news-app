@@ -1,7 +1,7 @@
 # 📰 Flutter News App
 
 A robust and scalable Flutter application designed to deliver a seamless and engaging news reading experience with fast performance and clean interface.  
-Integrated with a news API to keep users informed effortlessly with up-to-date content.  
+Integrated with a news **RESTful API** to keep users informed effortlessly with up-to-date content.  
 Built with **MVVM** architecture for scalability and maintainability and **BLoC** pattern for predictable and scalable UI logic.
 
 ---
@@ -17,8 +17,7 @@ Built with **MVVM** architecture for scalability and maintainability and **BLoC*
 - 🔬 Learn about the latest science discoveries and breakthroughs  
 - 💻 Keep up with evolving technology trends  
 - 🌗 Switch between light and dark themes for optimal reading comfort
-- 🗂️ MVVM Architecture with a clear separation of concerns between Model, View, and ViewModel layers for scalability and maintainability
-- 🧠 Robust State Management built with the BLoC pattern for predictable and scalable UI logic
+
 
 ---
 
