@@ -6,7 +6,7 @@ Built with **MVVM** architecture for scalability and maintainability and **BLoC*
 
 ---
 
-## ✨ Features
+## ✨ Key Features
 
 - 📰 Browse and explore news articles across multiple categories  
 - 📖 View detailed news items including title, description, author, and publication date  
